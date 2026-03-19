@@ -1,0 +1,15 @@
+# Build artifacts
+build/
+bin/
+*.o
+*.app
+
+# Qt/CMake generated
+Makefile
+CMakeCache.txt
+CMakeFiles/
+cmake_install.cmake
+*_autogen/
+
+# OS specific
+.DS_Store
