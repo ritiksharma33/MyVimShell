@@ -1,6 +1,6 @@
 # 🚀 MyVimShell: The Developer's Asynchronous Terminal
 > **"Because a frozen UI is a broken tool."** > A high-performance, C++/Qt6 desktop shell that brings Vim-like efficiency to system process management without ever locking up.
-> 
+
 ## 🌟 IN ACTION 
 ![Untitled design (1)](https://github.com/user-attachments/assets/e73a7d78-86c6-4cff-a15c-1de6c844e7bc)
 
